@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Bhavishya299/Bhavishya299/main/banner.png" alt="banner" style="width:100%; height:200px; object-fit:cover;" />
+<img src="https://raw.githubusercontent.com/Bhavishya299/Bhavishya299/main/banner.png" alt="banner" style="width:100%; height:300px; object-fit:cover;" />
 
 
 
