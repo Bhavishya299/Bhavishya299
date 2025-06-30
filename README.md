@@ -1,3 +1,4 @@
+<img src="https://github.com/Bhavsihya299Bhavsihya299/blob/main/banner.png" alt="banner" style="width:100%;"/>
 
 <h1 align="center">Hey there! 👋 I'm Bhavishya Chhabra</h1>
 <h3 align="center">🚀 Exploring AI | 💡 Building Automation | 🌱 Growing Everyday</h3>
