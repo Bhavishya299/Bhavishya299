@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/Bhavishya299/Bhavishya299/main/banner.png" alt="banner" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/Bhavishya299/Bhavishya299/main/banner.png" alt="banner" style="width:100%; height:200px; object-fit:cover;" />
+
 
 
 <h1 align="center">Hey there! 👋 I'm Bhavishya Chhabra</h1>
