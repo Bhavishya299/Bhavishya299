@@ -1,4 +1,4 @@
-<img src="https://github.com/Bhavsihya299Bhavsihya299/blob/main/banner.png" alt="banner" style="width:100%;"/>
+<img src="https://github.com/Bhavsihya299Bhavsihya299/blob/main/ChatGPT Image Jun 30, 2025, 02_03_50 PM.png" alt="banner" style="width:100%;"/>
 
 <h1 align="center">Hey there! 👋 I'm Bhavishya Chhabra</h1>
 <h3 align="center">🚀 Exploring AI | 💡 Building Automation | 🌱 Growing Everyday</h3>
