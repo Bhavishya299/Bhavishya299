@@ -7,7 +7,7 @@
 
 ---
 
-🎓 I'm currently a **2nd-year CSE (AI & ML)** student at **Chandigarh University**.  
+🎓 I'm currently a **3rd-year CSE (AI & ML)** student at **Chandigarh University**.  
 💻 Passionate about **Artificial Intelligence**, **Machine Learning**, and building real-world tech solutions.  
 🧠 Learning **Python**, **Data Structures**, and diving deeper into **ML concepts**.  
 🌐 Exploring **no-code tools**, automation, and beginner-friendly AI projects.  
